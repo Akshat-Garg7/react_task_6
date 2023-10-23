@@ -33,7 +33,7 @@ const Intro = () => {
             </article>
           </div>
           <p id='p1'>
-          Welcome to my portfolio! I'm Harshit Kumar, a Computer Science Engineering student at VIT Chennai, 
+          Welcome to my portfolio! I'm Akshat Garg, a Computer Science Engineering student at VIT Chennai, 
           where I've been passionately exploring the world of technology. With a current CGPA of 9.15, I am committed to achieving excellence
            in my academic pursuits. As a tech enthusiast, I'm constantly seeking out new challenges and opportunities to broaden my knowledge and skills. 
            This portfolio showcases some of my projects and achievements, 
